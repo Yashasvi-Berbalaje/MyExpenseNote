@@ -3,11 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Routes from './App';
+import Store from './playground/redux-101';
+import AuthInfo from './playground/hoc';
+//import './playground/redux-expensify';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+    <App/>,
   document.getElementById('root')
 );
 
