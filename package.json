@@ -17,7 +17,7 @@
     "react-dom": "^15.6.2",
     "react-redux": "^5.1.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "redux": "^4.0.5",
     "uuid": "^8.0.0"
   },
@@ -47,8 +47,8 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.9.6",
     "enzyme": "^2.9.1",
     "enzyme-adapter-react-15": "^1.4.1",
-    "jest": "^24.9.0",
-    "node-sass": "^4.14.1",
+    "jest": "^30.2.0",
+    "node-sass": "^9.0.0",
     "react-test-renderer": "^15.6.2",
     "sass-loader": "^8.0.2"
   }
